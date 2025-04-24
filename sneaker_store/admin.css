@@ -1,0 +1,31 @@
+a{
+    position:fixed;
+    top: 20p;
+    right: 20px;
+}
+body{
+    background-color: rgb(149, 152, 191);
+}
+table {
+    width: 100%;
+    border-radius: 8px;
+    overflow: hidden;
+    background-color: rgb(238, 242, 252);
+}
+th {
+    border: 1px solid #e5fbfc;
+    padding: 12px;
+    background-color: #98b8e5c7;
+    color: white;
+}
+td {
+    border: 0.5px solid #111111;
+}
+h2 {
+    font-size: 28px;
+    color: #f8fcff;
+    text-align: center;
+}
+.exit-button {
+    color: white
+}
